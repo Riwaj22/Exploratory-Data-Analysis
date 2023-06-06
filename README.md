@@ -12,3 +12,9 @@ Projects performing exploratory analysis on various datasets available in kaggle
 ![download](https://github.com/Riwaj22/Exploratory-Data-Analysis/assets/99485058/b42079cb-28d9-419b-ac11-bd827d74cce5)
 
 
+3: Covid 19 dataset:
+It contains preprocessed dataset where:
+a.Countrywise data
+b. daywise data
+
+
