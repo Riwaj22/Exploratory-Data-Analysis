@@ -38,9 +38,9 @@ b. plotly <br>
 c. cufflinks <br>
 d. missingno <br>
 
-5: IPL dataset: All Indian Premier League Cricket matches between 2008 and 2016.
+5: IPL dataset: All Indian Premier League Cricket matches between 2008 and 2022.
 
-This is the ball by ball data of all the IPL cricket matches till season 9.
+This is the ball by ball data of all the IPL cricket matches till season 13.
 
 The dataset contains 2 files: deliveries.csv and matches.csv.
 
