@@ -32,5 +32,12 @@ Division Name: Categorical name of the product high level division. <br>
 Department Name: Categorical name of the product department name. <br>
 Class Name: Categorical name of the product class name. <br>
 
+Packages used:
+a. nltk <br>
+b. plotly <br>
+c. cufflinks <br>
+d. missingno <br>
+
+
 
 
