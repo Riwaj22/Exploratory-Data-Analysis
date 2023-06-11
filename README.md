@@ -45,8 +45,42 @@ This is the ball by ball data of all the IPL cricket matches till season 13.The 
 
 
 matches.csv contains details related to the match such as location, contesting teams, umpires, results, etc. <br>
+Match ID: A unique identifier for each match. <br>
+Date: The date on which the match took place.<br>
+Team 1: The name or identifier of the first team participating in the match.<br>
+Team 2: The name or identifier of the second team participating in the match.<br>
+Venue: The location or venue where the match was played.<br>
+Umpire 1: The name or identifier of the first umpire officiating the match.<br>
+Umpire 2: The name or identifier of the second umpire officiating the match.<br>
+Result: The outcome or result of the match, such as "Team 1 won," "Team 2 won," or "Match tied."<br>
+Winner: The name or identifier of the winning team.<br>
+Win by runs: The margin of victory for the winning team, measured in runs.<br>
+Win by wickets: The margin of victory for the winning team, measured in wickets.<br>
+Player of the Match: The name or identifier of the player who was awarded the "Player of the Match" title.<br>
 
 deliveries.csv is the ball-by-ball data of all the IPL matches including data of the batting team, batsman, bowler, non-striker, runs scored, etc.
+
+Match ID: A unique identifier for each match. <br>
+Inning: Indicates whether the delivery belongs to the first or second inning of the match. <br>
+Batting Team: The name or identifier of the team that is currently batting. <br>
+Bowling Team: The name or identifier of the team that is currently bowling. <br>
+Over: The specific over number in which the delivery was bowled. <br>
+Ball: The ball number within the over. <br>
+Batsman: The name or identifier of the batsman facing the delivery. <br>
+Non-Striker: The name or identifier of the non-striker at the time of the delivery. <br>
+Bowler: The name or identifier of the bowler delivering the ball. <br>
+Is Super Over: Indicates whether the delivery belongs to a super over, which is a tiebreaker in case of a draw. <br>
+Wide Runs: The number of runs scored as extras due to a wide delivery. <br>
+Bye Runs: The number of runs scored as extras due to a bye, where the batsman doesn't make contact with the ball. <br>
+Leg Bye Runs: The number of runs scored as extras due to a leg bye, where the ball hits the batsman's body or gear. <br>
+No Ball Runs: The number of runs scored as extras due to a no-ball, where the bowler oversteps the crease or delivers a illegal delivery. <br>
+Penalty Runs: The number of runs awarded to the batting team as a penalty for the bowling team's misconduct. <br>
+Batsman Runs: The number of runs scored by the batsman off the delivery. <br>
+Extra Runs: The total number of runs scored as extras (Wide Runs + Bye Runs + Leg Bye Runs + No Ball Runs + Penalty Runs). <br>
+Total Runs: The total runs scored off the delivery (Batsman Runs + Extra Runs).<br>
+Player Dismissed: The name or identifier of the batsman who got dismissed on the delivery (if applicable).<br>
+Dismissal Kind: The type of dismissal if the batsman got out on the delivery (e.g., caught, bowled, run out).<br>
+Fielder: The name or identifier of the fielder involved in the dismissal (if applicable). <br>
 
 6:Fifa World Cup Dataset: 
 Contains 3 dataset namely Worldcupmatches, WorldCupPlayers and WorldCups
