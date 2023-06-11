@@ -121,5 +121,18 @@ Position: The position or role of the player on the field (e.g., goalkeeper, def
 Event: The specific event or action related to the player during the match (e.g., goal scored, yellow card, red card).<br>
 Detailed Explanation: Additional information or details about the player's performance, event, or action in the match.<br>
 
+Worldcups detailed Explanation:
+
+Year: The year in which the World Cup tournament took place. <br>
+Country: The host country or countries of the tournament.<br>
+Winner: The name of the team that won the tournament.<br>
+Runners-up: The name of the team that finished as the runners-up in the tournament.<br>
+Third: The name of the team that finished in the third place in the tournament.<br>
+Fourth: The name of the team that finished in the fourth place in the tournament.<br>
+Goals Scored: The total number of goals scored throughout the tournament.<br>
+Qualified Teams: The number or list of teams that qualified for the tournament.<br>
+Matches Played: The total number of matches played during the tournament.<br>
+Attendance: The total number of spectators or attendees present throughout the tournament.<br>
+
 
 
