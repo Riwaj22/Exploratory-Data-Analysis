@@ -108,5 +108,18 @@ MatchID: A unique identifier for the match.<br>
 Home Team Initials: The three-letter initials of the home team.<br>
 Away Team Initials: The three-letter initials of the away team.<br>
 
+WorldCup Players detailed explanation:
+
+RoundID: A unique identifier for the round of the tournament in which the match was played. <br>
+MatchID: A unique identifier for the match.<br>
+Team Initials: The three-letter initials of the team to which the player belongs.<br>
+Coach Name: The name of the coach or manager of the team.<br>
+Line-up: Indicates whether the player was in the starting lineup or on the bench (e.g., "Starting XI," "Substitute").<br>
+Shirt Number: The number printed on the player's jersey.<br>
+Player Name: The name of the player.<br>
+Position: The position or role of the player on the field (e.g., goalkeeper, defender, midfielder, forward).<br>
+Event: The specific event or action related to the player during the match (e.g., goal scored, yellow card, red card).<br>
+Detailed Explanation: Additional information or details about the player's performance, event, or action in the match.<br>
+
 
 
