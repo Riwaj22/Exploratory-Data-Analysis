@@ -48,6 +48,8 @@ matches.csv contains details related to the match such as location, contesting t
 
 deliveries.csv is the ball-by-ball data of all the IPL matches including data of the batting team, batsman, bowler, non-striker, runs scored, etc.
 
+6:Fifa World Cup Dataset: 
+
 
 
 
