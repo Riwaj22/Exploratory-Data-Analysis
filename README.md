@@ -85,5 +85,28 @@ Fielder: The name or identifier of the fielder involved in the dismissal (if app
 6:Fifa World Cup Dataset: 
 Contains 3 dataset namely Worldcupmatches, WorldCupPlayers and WorldCups
 
+WorldCupMatches detailed explanation:
+
+Year: The year in which the match took place. <br>
+Datetime: The date and time of the match. <br>
+Stage: The stage of the tournament in which the match was played (e.g., group stage, knockout stage).<br><br>
+Stadium: The name of the stadium where the match was held.<br>
+City: The city where the stadium is located.<br>
+Home Team Name: The name of the home team.<br>
+Home Team Goals: The number of goals scored by the home team in the match.<br>
+Away Team Goals: The number of goals scored by the away team in the match.<br>
+Away Team Name: The name of the away team.<br>
+Win conditions: The conditions under which the winning team was determined (e.g., regular time, extra time, penalty shootout).<br>
+Attendance: The number of spectators present at the match.<br>
+Half-time Home Goals: The number of goals scored by the home team at half-time.<br>
+Half-time Away Goals: The number of goals scored by the away team at half-time.<br>
+Referee: The name of the referee officiating the match.<br>
+Assistant 1: The name of the first assistant referee.<br>
+Assistant 2: The name of the second assistant referee.<br>
+RoundID: A unique identifier for the round of the tournament.<br>
+MatchID: A unique identifier for the match.<br>
+Home Team Initials: The three-letter initials of the home team.<br>
+Away Team Initials: The three-letter initials of the away team.<br>
+
 
 
