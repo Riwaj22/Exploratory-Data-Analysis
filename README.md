@@ -89,7 +89,7 @@ WorldCupMatches detailed explanation:
 
 Year: The year in which the match took place. <br>
 Datetime: The date and time of the match. <br>
-Stage: The stage of the tournament in which the match was played (e.g., group stage, knockout stage).<br><br>
+Stage: The stage of the tournament in which the match was played (e.g., group stage, knockout stage).<br>
 Stadium: The name of the stadium where the match was held.<br>
 City: The city where the stadium is located.<br>
 Home Team Name: The name of the home team.<br>
